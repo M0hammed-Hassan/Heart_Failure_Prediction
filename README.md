@@ -1,6 +1,7 @@
 # Heart_Failure_Prediction
 My goal in this project is to build a machine learning model that is able to predict whether or not a person has heart disease.
-Gboost model is the best one in this problem, and i used the threshold concept for decreasing the cost of 'FN' for increasing the recall score.
+
+Gboost model is the best one in this problem, and i used the threshold concept for decreasing the cost of "FN" for increasing the recall score.
 # Used Libraries
 - Numpy
 - Pandas
