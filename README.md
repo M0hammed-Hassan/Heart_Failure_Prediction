@@ -18,7 +18,7 @@ Gboost model is the best one in this problem, and i used the threshold concept f
 - Cross Validation
 # Used Hyperparameters Tuning Algorithms
 - GridSearchCV
-#Used Metrics
+# Used Metrics
 - accuracy_score
 - confusion_matrix
 - precision_score
